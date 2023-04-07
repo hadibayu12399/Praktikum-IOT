@@ -47,3 +47,6 @@ Komponen yang digunakan :
 1 DHT11
 
 
+![WhatsApp Image 2023-04-07 at 11 18 35](https://user-images.githubusercontent.com/74283022/230541152-5c98d04c-77e7-4d99-96cc-288cffe80fb2.jpeg)
+
+
