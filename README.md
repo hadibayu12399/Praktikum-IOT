@@ -1,22 +1,49 @@
 # Praktikum-IOT
-2009106047 - Muhammad Amri Rasyid Ramadhan
 
-2009106029 - Muhamad Rizky Nilzamyahya
+2009106006 - Hadi Bayu Saputra
+
+2009106040 - Muhammad Fajrianur
+
+2009106046 - Erman Parni Simanjuntak
+
 
 Judul :
-Membuat Rangkaian untuk mengatur LED Lampu lalu lintas
+Monitoring Kelembapan Menggunakan Platform Blynk
+
+
 Deskripsi :
-Rancangan ini digunakan untuk controlling lampu lalu lintas
+Rancangan ini digunakan untuk monitoring kelembapan
+
+
 Pembagian Tugas :
-[ Muhammad Amri Rasyid Ramadhan ]
+
+[ Erman Parni Simanjuntak ]
+
+Membuat rangkaian 
+Codingan
+
+[ Muhammad Fajrianur ]
+
 Membuat rangkaian LED
 Codingan
-[ Muhamad Rizky Nilzamyahya ]
-Membuat rangkaian LED
-Codingan
+
+[ Hadi Bayu Saputra ]
+
+Membuat Rekaman
+
+
 Komponen yang digunakan :
-3 Lampu LED
-2 Breadboard
+
+1 Lampu LED
+
+1 Breadboard
+
 1 ESP8266
-3 Resistor
+
+1 Resistor
+
 4 Male to Male Cables
+
+1 DHT11
+
+
