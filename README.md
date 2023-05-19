@@ -34,17 +34,14 @@ Membuat Rekaman
 
 Komponen yang digunakan :
 
-1 Lampu LED
-
-1 Breadboard
-
-1 ESP8266
-
-1 Resistor
-
-4 Male to Male Cables
-
-1 DHT11
+- esp32 : 2
+- buzzer : 1
+- LED : 2
+- Resistor : 2
+- Breadboard : 2 
+- Kabel Jumper male to male : 10
+- Button : 2
+- DHT11 : 1
 
 
 ![WhatsApp Image 2023-04-07 at 11 18 35](https://user-images.githubusercontent.com/74283022/230541152-5c98d04c-77e7-4d99-96cc-288cffe80fb2.jpeg)
